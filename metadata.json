@@ -1,0 +1,6 @@
+{
+  "name": "History Quiz",
+  "description": "Historical quiz experience with dynamic Firebase Firestore questions, daily challenges, offline caching, and user progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
